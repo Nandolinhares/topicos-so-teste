@@ -24,4 +24,6 @@ A relação dos dois é que com o Github podemos armazenar e gerenciar projetos 
     - Crie um repositório remoto com a cli do github ou no site deles
     - Adicione a url do repositório remoto no seu - repositório local
     - Envie os commits locais para o repositório remoto
+    - ![image](https://user-images.githubusercontent.com/15971419/119238550-58017880-bb19-11eb-952b-d541ca010a0c.png)
     - Coloque aqui o link para seu repositório remoto!
+    - https://github.com/Nandolinhares/topicos-so-teste
